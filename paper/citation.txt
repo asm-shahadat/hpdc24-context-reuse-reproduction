@@ -1,0 +1,1 @@
+Thanh Son Phung, Colin Thomas, Logan Ward, Kyle Chard, and Douglas Thain. "Accelerating Function-Centric Applications by Discovering, Distributing, and Retaining Reusable Context in Workflow Systems." In The 33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC ’24), June 3–7, 2024, Pisa, Italy. https://doi.org/10.1145/3625549.3658663
