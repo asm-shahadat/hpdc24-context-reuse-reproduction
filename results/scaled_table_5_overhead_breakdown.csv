@@ -1,0 +1,5 @@
+Mode,Mean context load time (s),Mean retained-context setup time (s),Mean compute time (s),Mean invocation runtime (s)
+L1,0.06394,0.0,0.039736,0.114468
+L2,0.00405,0.0,0.054381,0.069618
+L3,0.0,0.0,0.00805,0.011995
+L3_RETAINED_CONTEXT_SETUP,0.0,0.003658,0.0,0.0

@@ -1,0 +1,7 @@
+{
+  "experiment": "Scaled TaskVine LNNI context-reuse reproduction",
+  "invocations_per_run": 100,
+  "matrix_size": 1000,
+  "compute_repeats": 8,
+  "note": "Scaled reproduction on one KVM VM. L3 uses a retained in-memory context service. L3 retained-context setup is measured separately from the invocation execution window for cumulative-completion plots."
+}
